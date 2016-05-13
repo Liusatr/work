@@ -1,0 +1,130 @@
+.shead{ height: 50px; background: #7d7474 ; position: fixed; top: 0; width: 100%; left: 0; z-index: 96}
+
+.w860{  width: 860px; margin: 0  auto }
+
+
+.slogo{ float: left; margin-left: 15px; }
+.sform{ padding-top: 10px; width: 600px; position: relative; padding-left: 70px }
+.sform input {
+    height: 30px;
+    width: 600px;
+    padding: 3px 20px 3px 10px;
+    font-size: 14px;
+    line-height: 30px;
+    background: #5e5858;
+    border: 0;
+    color: #fff;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -ms-border-radius: 2px;
+    border-radius: 2px;
+}
+.sform a{  font-size: 0; width: 30px; height: 30px;  position: absolute; right: 0; top: 10px }
+.nx-sidebar {
+    position: fixed;
+    top: 50px;
+    left: 0;
+    bottom: 0;
+}
+
+.sleft{ width: 160px; background: #2e2a2a; }
+.sleft ul{ padding-top: 10px; padding-bottom: 50px }
+.sleft a{ color: #fff; padding: 10px 0 10px 20px; display: block; }
+.sleft a:hover{ background: #666; }
+.sleft img{ float: left; margin-right: 10px }
+.sleft span{height: 32px; line-height: 32px}
+.sleft li{}
+::-webkit-scrollbar { width: 0; } 
+::scrollbar { width: 0; } 
+
+
+body{ background: #444040;  height: 1200px}
+
+.h50{ height: 50px; background: #4a5e58; margin-top: 50px ;}
+.smenu{ overflow: hidden; }
+.smenu li{ float: left; height: 50px; line-height: 50px; margin-right: 2px}
+.smenu a{ color: #fff ;display: block; padding: 0 12px; position: relative;}
+.smenu a.active:after,.smenu a:hover:after{ border-bottom: 2px solid #fff ; content: ''; position: absolute; bottom: 0; width: 100%; left: 0}
+
+
+.p70{ padding-left: 70px}
+
+.sbg{ background: url(../img/bg.jpg) no-repeat center top; padding-top: 148px;}
+
+.stop{position: relative;padding-top: 166px;}
+.rw{ position: absolute;left: 20px;bottom: 20px; }
+.sfoot{ width: 100%;height: 50px; background: #fff;line-height: 50px; }
+.sfoot a{ color: #666;  }
+
+.i1{ margin-left: 240px; }
+.sfoot img{ margin-right: 10px; } 
+.i2{ margin-left: 30px; }
+.i3{ float: right; margin-right: 20px; }
+
+.scontent{ background: url(../img/xian.jpg) repeat-y center; margin-top: 10px; }
+.shde{overflow: hidden;}
+.ltop{ width:410px; height: 94px; float: left; }
+.ltop ul{ padding-top: 20px; padding-left: 55px; }
+.ltop li{ float: left; text-align: center; }
+.p80{ padding: 0 80px; }
+.ltop p{ color: #666;margin-top: 5px; }
+.bg{background: #fff; border-radius: 3px;}
+.rtop{float: right;}
+.r_1{ width: 413px; height: 100px; margin-bottom: 27px;}
+.rtop p{ padding: 20px 0 6px 20px; }
+.r_2{ width: 413px; height: 100px;  }
+.r_2 p a{ float: right; margin-right: 18px;color: #666 }
+.tu{ padding-left: 20px; }
+
+.sdata{ width: 100%;height: 30px;text-align: center;position: relative; margin-top: 35px;}
+.sdata p{ width: 170px;  background: #8e8282; border-radius: 3px; color: #fff;line-height: 30px; position: absolute;left: 40% }
+
+.fem{ width: 410px; height: 250px; margin-top: 35px;position: relative;}
+.fem:after{width: 30px; height: 18px; background: url(../img/din.png) no-repeat ;content: '' ;position: absolute; right: -30px;top: 10px;}
+.ri{ height: 66px;line-height: 66px;  }
+.ri img{ margin-left: 20px; }
+.snew{ background: #a1e1bc; height: 36px; line-height: 36px; }
+.snew a{ float: right; padding-right: 15px; color: #666}
+.snew a img{ padding-right: 10px; }
+.snew span{ padding-left: 20px;color: #ccc; }
+
+.lr{ margin-top: 35px;overflow: hidden; }
+.lside{ width: 410px;border-bottom: 2px solid #47a871;position: relative;  padding-left: 20px; float: left;}
+.lside:after{ width: 40px;height: 27px; background: url(../img/din2.png) no-repeat;content: ''; position: absolute; right: -40px;top: 10px;  }
+
+.h165{ height: 165px; }
+.h264{ height: 264px;}
+.h195{ height: 195px; }
+.h220{height: 220px;}
+.snum{ height: 47px; line-height: 47px;}
+.lside span{ color: #124d2a ;}
+.nfrd{ margin-top: 25px;height: 51px;}
+.nfrd a{ float: left; padding-right: 10px;}
+.nfrd p{ line-height: 180%; }
+
+.rside{ width: 410px; float: right;}
+.rside h5{ margin-top: 20px; padding-left: 20px; }
+.rside p{ padding-left: 20px;padding-top: 10px; }
+.sradio{ padding:0 20px;overflow: hidden;}
+.sradio img{ float: left; }
+.sradio span{color:#124d2a; margin-left: 10px;  margin-top: 20px; float: left;}
+.sradio p{ margin-top: 10px; }
+
+.share{background: #a1e1bc; height: 36px; line-height: 36px; width: 410px; padding: 0 20px;margin-top: 22px;}
+.share div{ float: right; }
+.share div a{ padding-left: 20px; color:#124d2a; }
+.share img{ margin-right: 10px; }
+.share span{ color: #ccc }
+
+.diary{width: 378px;height: 110px;border: 1px solid #ebebeb; padding: 20px 10px;}
+.diary a{color: #124d2a;}
+.diary span{ font-weight: bold; }
+.ans{margin-top: 20px;}
+.ans div{ float: right; padding-right: 20px;}
+.ans a,.ans span{color:#124d2a;}
+.ans img{ padding: 0 10px 0 10px; }
+
+.sadd{ margin-top: 10px; }
+.lefts{ width: 410px; float: left;}
+.lefts h5{ margin-top: 20px; padding-left: 20px; }
+.lefts p{ padding-left: 20px;padding-top: 10px; }
